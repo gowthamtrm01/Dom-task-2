@@ -1,0 +1,45 @@
+/* For h2 tag, make it center, giving space on top and bottom */
+.heading {
+  text-align: center;
+  padding: 10px 0;
+}
+
+/*  for page button, set the color, set the background color,
+ set the border radius, giving the border thickness and color  */
+.button {
+  color: white;
+  background: #a9a9a9;
+  border-radius: 2px;
+  border: 1px solid #696969;
+}
+
+/* set the container content to center */
+.container {
+  width: 700px;
+  text-align: center;
+}
+
+/* to move page button to right */
+.right-corner {
+  text-align: right;
+  width: 651px;
+}
+
+/* for table border, set the border thickness and color */
+.tableBorder {
+  border: 3px solid #d3d3d3;
+}
+
+/* inside table content set the data to center, giving space for top and bottom */
+.table {
+  text-align: center;
+  width: 300px;
+  padding: 10px 0;
+}
+
+/* for table id content, moving to center the content,giving space for top and bottom  */
+.tableId {
+  text-align: center;
+  width: 50px;
+  padding: 10px 0;
+}
